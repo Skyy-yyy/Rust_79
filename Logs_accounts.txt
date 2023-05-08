@@ -1,0 +1,8 @@
+{
+    "Skylimit2123@outlook.com": {
+        "Last check": "2023-05-08",
+        "Today's points": 845,
+        "Points": 845
+    },
+    "Elapsed time": "00:22:38"
+}
